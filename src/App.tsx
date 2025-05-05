@@ -326,6 +326,9 @@ const App: React.FC = () => {
                         <video
                           src={project.video}
                           controls
+                          muted
+                          autoPlay
+                          playsInline
                           className="w-full max-w-xl aspect-video rounded-xl"
                         />
                       ) : (
