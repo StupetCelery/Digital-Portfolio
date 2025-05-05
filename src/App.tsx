@@ -31,7 +31,7 @@ const projects: Project[] = [
       </a>,
       ".",
     ],
-    image: "/images/model_compressed_1.jpg",
+    image: "images/model_compressed_1.jpg",
   },
   {
     id: 2,
@@ -78,7 +78,7 @@ const projects: Project[] = [
       </a>,
       ".",
     ],
-    video: "./videos/LunarLanderDemo.mp4",
+    video: "videos/LunarLanderDemo.mp4",
   },
   {
     id: 4,
@@ -100,7 +100,7 @@ const projects: Project[] = [
       </a>,
       ".",
     ],
-    video: "../videos/WordleDemoFast.mp4",
+    video: "videos/WordleDemoFast.mp4",
   },
   {
     id: 5,
@@ -124,7 +124,7 @@ const projects: Project[] = [
       </a>,
       ".",
     ],
-    image: "/images/TriangleStrips.png",
+    image: "images/TriangleStrips.png",
   },
   {
     id: 6,
@@ -137,7 +137,7 @@ const projects: Project[] = [
       <div key="space2" className="my-4" />,
       "The video below is a demo of the game being played.",
     ],
-    video: "/videos/PlatformerDemo.mp4",
+    video: "videos/PlatformerDemo.mp4",
   },
   {
     id: 7,
@@ -161,7 +161,7 @@ const projects: Project[] = [
       </a>,
       ".",
     ],
-    video: "/videos/Convex Hull Demo.mp4",
+    video: "videos/Convex Hull Demo.mp4",
   },
   {
     id: 8,
@@ -185,7 +185,7 @@ const projects: Project[] = [
       </a>,
       ".",
     ],
-    image: "https://github.com/StupetCelery/Digital-Portfolio/blob/main/public/images/Abelian-Sandpile.png",
+    image: "images/Abelian-Sandpile.png",
   },
 ];
 
