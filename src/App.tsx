@@ -54,7 +54,7 @@ const projects: Project[] = [
       </a>,
       ".",
     ],
-    image: "/images/femurSlices.png",
+    image: "images/femurSlices.png",
   },
   {
     id: 3,
@@ -78,7 +78,7 @@ const projects: Project[] = [
       </a>,
       ".",
     ],
-    video: "/videos/LunarLanderDemo.mp4",
+    video: "./videos/LunarLanderDemo.mp4",
   },
   {
     id: 4,
@@ -100,7 +100,7 @@ const projects: Project[] = [
       </a>,
       ".",
     ],
-    video: "/videos/WordleDemoFast.mp4",
+    video: "../videos/WordleDemoFast.mp4",
   },
   {
     id: 5,
@@ -185,7 +185,7 @@ const projects: Project[] = [
       </a>,
       ".",
     ],
-    image: "/images/Abelian-Sandpile.png",
+    image: "https://github.com/StupetCelery/Digital-Portfolio/blob/main/public/images/Abelian-Sandpile.png",
   },
 ];
 
