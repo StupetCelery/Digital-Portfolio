@@ -78,7 +78,7 @@ const projects: Project[] = [
       </a>,
       ".",
     ],
-    video: "videos/LunarLanderDemo.mp4",
+    video: "videos/LunarLander.mp4",
   },
   {
     id: 4,
