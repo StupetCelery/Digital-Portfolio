@@ -161,7 +161,7 @@ const projects: Project[] = [
       </a>,
       ".",
     ],
-    video: "videos/Convex Hull Demo.mp4",
+    video: "videos/ConvexHull.mp4",
   },
   {
     id: 8,
