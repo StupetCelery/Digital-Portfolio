@@ -137,7 +137,7 @@ const projects: Project[] = [
       <div key="space2" className="my-4" />,
       "The video below is a demo of the game being played.",
     ],
-    video: "videos/PlatformerDemo.mp4",
+    video: "videos/Platformer Demo.mp4",
   },
   {
     id: 7,
